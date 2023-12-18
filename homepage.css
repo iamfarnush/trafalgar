@@ -1,0 +1,371 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.safed {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+.link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: -50px;
+}
+
+.link1 {
+    padding-left: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.link2 {
+    padding-left: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: 50;
+
+}
+
+.virtual {
+    display: flex;
+    justify-content: space-between;
+}
+
+.zagalovok {
+    padding-top: 150px;
+}
+
+.zagalovok h1 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    color: #458FF6;
+    color: white;
+    background-color: #458FF6;
+    margin-top: 30px;
+}
+
+.surat {
+    margin-top: 70px;
+}
+
+.our {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 100px;
+}
+
+.suraten {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.div1 {
+    box-shadow: 4px 4px 4px 3px rgb(214, 219, 219);
+    background-color: rgb(214, 219, 219);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.div2 {
+    box-shadow: 4px 4px 4px 3px rgb(214, 219, 219);
+    background-color: rgb(214, 219, 219);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.div3 {
+    box-shadow: 4px 4px 4px 3px rgb(214, 219, 219);
+    background-color: rgb(214, 219, 219);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.suraten2 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 150px;
+}
+
+.div4 {
+    box-shadow: 4px 4px 4px 3px rgb(214, 219, 219);
+    background-color: rgb(214, 219, 219);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.div5 {
+    box-shadow: 4px 4px 4px 3px rgb(214, 219, 219);
+    background-color: rgb(214, 219, 219);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.div6 {
+    box-shadow: 4px 4px 4px 3px rgb(214, 219, 219);
+    background-color: rgb(214, 219, 219);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+.learn {
+    text-decoration: none;
+    border: 2px solid;
+    color: #458FF6;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 500px;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+
+.virtual2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 300px;
+    margin-bottom: 200px;
+}
+
+.zagalovok2 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+
+.learn2 {
+    border: 2px solid;
+    color: #458FF6;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+
+.text {
+    margin-bottom: 50px;
+}
+
+.download {
+    border: 2px solid;
+    color: #458FF6;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+
+.text2 {
+    margin-bottom: 50px;
+}
+
+.check {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 200px;
+}
+
+.pics {
+    display: flex;
+    justify-content: space-between
+}
+
+.zagalovoki {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.readmore {
+    text-decoration: none;
+    color: #458FF6;
+    margin-top: 20px;
+
+
+}
+
+.view {
+    border: 2px solid;
+    color: #458FF6;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 500px;
+
+    text-decoration: none;
+}
+
+.button2 {
+    margin-top: 100px;
+}
+.footer{
+    background-color: #458FF6;
+    color: white;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer1{
+    background-color: #458FF6;
+    color: white;
+    height: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.footer2{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.email{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-left: 10px;
+}
+.subscribe{
+    text-decoration: none;
+    color: black;
+    border: 1px solid;
+    border-radius: 4px;
+    color: white;
+    background-color: white;
+    -webkit-text-fill-color: #458FF6;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-weight: 900;
+}
+.footer3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #458FF6;
+    color: white;
+    height: 50px;
+    padding-left: 100px;
+}
+.insta{
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+    .twit{
+        padding-left: 20px;
+    }
+.a1{
+    padding-left: 15px;
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width: 888px) {
+    .link{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 1064px) {
+    .virtual{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 1192px) {
+    .suraten{
+        display: flex;
+        flex-direction: column;
+    }
+    .suraten2{
+        display: flex;
+        flex-direction: column;
+    }
+    .link3{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start; 
+     }
+}
+@media screen and (max-width: 1096px)  {
+   .virtual2{
+    display: flex;
+    flex-direction: column;
+   }
+}
+@media screen and (max-width: 1280px)  {
+    .pics{
+     display: flex;
+     flex-direction: column;
+    }
+    .button2{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start; 
+    }
+ }
+@media screen and (max-width: 1016px) {
+    .footer2{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 684px) {
+    .footer{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
